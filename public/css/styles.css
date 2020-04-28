@@ -65,6 +65,7 @@ button {
   color: #FF91AF;
   font-size: 30px;
   padding-bottom: 8px;
+  padding-top: 4px;
   border-width: 0;
 }
 
@@ -91,6 +92,5 @@ input[type="text"]:focus {
 
 footer {
   color: white;
-  color: rgba(0, 0, 0, 0.5);
   text-align: center;
 }
